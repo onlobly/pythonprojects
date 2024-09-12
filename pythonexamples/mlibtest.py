@@ -1,0 +1,11 @@
+#   madlib project (ty Bro Code)
+adjective1 = input("Give me an adjective: ")
+noun = input("Give me a noun: ")
+adjective2 = input("Give me another adjective: ")
+verb = input("Give me a verb: ")
+adjective3 = input("Give me another adjective: ")
+
+print(f"Today i went to a {adjective1} zoo.")
+print(f"In an exhibit, I saw {noun}.")
+print(f"{noun} was {adjective2} and {verb}ing!")
+print(f"I was {adjective3}!")
